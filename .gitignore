@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment
+.env
+.env.*
+
+# Generated files
+face_a.jpg
+face_b.jpg
+raw_morph.mp4
+verify.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
