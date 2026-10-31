@@ -13,9 +13,6 @@ __pycache__/
 .env
 .env.*
 
-# Temporary files
-raw_morph.mp4
-verify.mp4
 
 # OS files
 .DS_Store
