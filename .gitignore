@@ -13,9 +13,7 @@ __pycache__/
 .env
 .env.*
 
-# Generated files
-face_a.jpg
-face_b.jpg
+# Temporary files
 raw_morph.mp4
 verify.mp4
 
